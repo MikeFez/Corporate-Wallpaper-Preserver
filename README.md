@@ -7,7 +7,7 @@ Fear no more! Introducing the Wallpaper Preserver!
 
 Watch that sparkle in their eye diminish back to a blank, souless stare in a matter of seconds.
 
-#How To Use (Windows only for now)
+# How To Use (Windows only for now)
 1) Set your wallpaper
 2) Copy the path to the wallpaper to the script
 3) Launch the program in windowless mode upon boot
