@@ -1,5 +1,4 @@
-# Wallpaper-Preserver
-Billy Mays here!
+# Billy Mays here!
 
 Are you tired of coworkers changing your wallpaper when you step away from your desk? Did you develop PTSD from Richard Simmons in pink 80's workout attire assulting your eyes when you minimized that Chrome tab?
 
