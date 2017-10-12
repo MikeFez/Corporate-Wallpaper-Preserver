@@ -18,6 +18,7 @@ def main():
         if current_wallpaper != previous_wallpaper:
             print("Change Detected!")
             set_back()
+            print("Changed Wallpaper To Default")
             previous_wallpaper = get_reg("TranscodedImageCache")
 
 
